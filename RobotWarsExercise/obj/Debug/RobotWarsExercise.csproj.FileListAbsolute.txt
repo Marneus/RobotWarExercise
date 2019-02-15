@@ -1,0 +1,6 @@
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\bin\Debug\RobotWarsExercise.dll
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\bin\Debug\RobotWarsExercise.pdb
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\obj\Debug\RobotWarsExercise.csprojAssemblyReference.cache
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\obj\Debug\RobotWarsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\obj\Debug\RobotWarsExercise.dll
+C:\Users\Calga\source\repos\RobotWarsExercise\RobotWarsExercise\obj\Debug\RobotWarsExercise.pdb
